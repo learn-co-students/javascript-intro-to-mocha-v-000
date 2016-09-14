@@ -1,5 +1,5 @@
 function theTruth(){
-  debugger;
+  return true;
 }
 
 function sayHey(){
