@@ -21,3 +21,7 @@ function shouting(string) {
 function roundDown(number) {
   return Math.floor(number);
 }
+
+function absVal(number) {
+  return Math.abs(number);
+}
