@@ -5,3 +5,7 @@ function sayHey() {
 function sayHeyFriend(name) {
   return "Hey, " + name + "!"
 }
+
+function favoriteIceCream (icecream) {
+  return "I love " + icecream 
+}
