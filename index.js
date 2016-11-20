@@ -7,5 +7,13 @@ function sayHeyFriend(name) {
 }
 
 function favoriteIceCream (icecream) {
-  return "I love " + icecream 
+  return "I love " + icecream
+}
+
+function roundDown(number) {
+  return Math.floor(number);
+}
+
+function shouting(string) {
+  return string.toUpperCase();
 }
