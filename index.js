@@ -17,3 +17,7 @@ function roundDown(number) {
 function shouting(string) {
   return string.toUpperCase();
 }
+
+function theTruth() {
+  return true;
+}
