@@ -21,3 +21,7 @@ function shouting(string) {
 function roundDown(number) {
   return Math.floor(number)
 }
+
+theTruth();
+sayHey();
+sayHeyFriend();
