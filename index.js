@@ -1,23 +1,24 @@
 function theTruth(){
-  return true;
+  return true
 }
 
 function sayHey(){
-  return "Hey!";
+  return "Hey!"
 }
 
 function sayHeyFriend(name){
-  return `Hey, ${name}!`;
+  return `Hey, ${name}!`
+}
+function favoriteIceCream(flavor) {
+  return `I love ${flavor}`
 }
 
-function favoriteIceCream(flavor){
-  return `I love ${flavor}`;
-}
 
 function shouting(string){
-  return string.toUpperCase();
+  return string.toUpperCase()
 }
 
-function roundDown(number){
-  return Math.floor(number);
+function roundDown(num){
+  var result = Math.floor(num)
+  return result
 }
