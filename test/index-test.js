@@ -34,4 +34,10 @@ describe('Intro to Mocha', function () {
       expect(roundDown(5.99)).toEqual(5);
     });
   });
+
+  describe('absVal()', function() {
+    it('should return the absolute value of a number', function() {
+      expect(absVal(-6)).toEqual(6);
+    });
+  });
 });
