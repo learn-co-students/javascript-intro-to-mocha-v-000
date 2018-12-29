@@ -23,9 +23,3 @@ function roundDown(number) {
   return Math.floor(number);
 }
 
-// describe('roundDown()', function () {
-//   it('should correctly floor the number', function () {
-//     expect(roundDown(5.99)).toEqual(5);
-//   });
-// });
-// });
